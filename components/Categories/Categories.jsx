@@ -62,10 +62,7 @@ export default function Categories() {
 
   return (
     <>
-      <div
-        data-aos="fade-right"
-        className="categories py-2 lg:py-5 lg:mb-[60px]"
-      >
+      <div data-aos="fade-right" className="categories  lg:py-5 lg:mb-[60px]">
         <div className="custom-container">
           <div className="categories-head flex items-center gap-3 md:gap-5 lg:gap-8 justify-start md:justify-center overflow-x-scroll">
             {categories.map((sCategory) => (

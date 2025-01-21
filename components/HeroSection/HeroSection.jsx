@@ -85,7 +85,7 @@ export default function HeroSection() {
   return (
     <div
       data-aos="zoom-out"
-      className="relative h-[26vh] md:h-[85vh] lg:h-[65vh] bg-cover bg-center mb-[20px] md:mb-[160px] lg:mb-[200px] bg-no-repeat bg-[#DFDFDF] md:bg-[url('/hero/Hero.png')]"
+      className="relative h-[30vh] md:h-[85vh] lg:h-[65vh] bg-cover bg-center mb-[20px] md:mb-[160px] lg:mb-[200px] bg-no-repeat bg-[#DFDFDF] md:bg-[url('/hero/Hero.png')]"
     >
       <div className="absolute inset-0 md:bg-black md:bg-opacity-40 flex flex-col items-center">
         <h1 className="text-black font-bridone md:text-white text-xl md:text-5xl lg:text-[64px] font-bold text-center mt-[11px] mb-2 md:mt-[80px] md:mb-[80px]">
